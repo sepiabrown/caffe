@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Usage parse_log.sh caffe.log
 # It creates the following two text files, each containing a table:
 #     caffe.log.test (columns: '#Iters Seconds TestAccuracy TestLoss')
